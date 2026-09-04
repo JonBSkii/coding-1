@@ -12,3 +12,9 @@ studentsinclass
 optionaltravelinsurance
 top3memberships
 sprite=$2.50, cookies&cream milkshake=$6.00, Clear fruit=$2.75
+Variable Naming Conventions
+# we use naming conventions because we cannot have spaces in variable names
+# camel case- when creating variable names with multiple words, every new word begins with a capital letter. 
+The reason why its called l case is because every word represents a hump.
+# snake case- when creating a variable using snake case we use a underscore symbol to space out neach new word the reason why its called 
+snake case is because the underscrore represents 
