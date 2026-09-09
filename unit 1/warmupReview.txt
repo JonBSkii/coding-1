@@ -1,0 +1,9 @@
+1. Strings- characters that are wrapped within quotes, booleans- true/false, integers-whole numbers, and floats- number with a decimal.
+
+2. A code organizer staring files and data.
+
+3. A computer keyboard is an output because you didn't send the message yet.
+
+4. A variable is a container that sources data.
+
+5. A variable name i learned is must start with a letter not number.
