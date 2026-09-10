@@ -2,7 +2,7 @@
 
 2. A code organizer staring files and data.
 
-3. A computer keyboard is an output because you didn't send the message yet.
+3. A computer keyboard is an input because its sending digital codes to the computer to show what you're typing.
 
 4. A variable is a container that sources data.
 
