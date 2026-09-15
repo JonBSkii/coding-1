@@ -6,17 +6,16 @@
  #name= Jon
  #grade= 10
  #school= true
+# intergers (whole numbers) and floats (decimal numbers
 
  # Arithmetic Operators- used on numerical datatypes to perform calculations.
- # intergers (whole numbers) and floats (decimal numbers)
-
  #print is a function that lets us show code in the terminal.
 print (3+3) #addition
 print (3.9-3) #subtraction
 print (12 / 3) #division
 print (3 * 4) #multiplecation 
 
-# comparison operators- set of symbols used to assess if data is the same or differernt and how they differ.
+# comparison operators- set of symbols used to assess if data is the same or differernt and how they differ.bn 
 
 print(10 >1)
 print(10 < 2)
@@ -40,4 +39,4 @@ print(3 > 1 and 100 > 50) # this would come out to be true
 # Or- checks if only 1 condition is true if ye, the final result will be true.
 print(3 > 1 or 100 == 50)
 # Not- the "opposite day" operator. it will reverse the result of the  logical operators.
-print(not(3 > 1 and 100 > 50) # this would come out to be false.
+printnot (3 > 1 and 100 > 50) # this would come out to be false.
