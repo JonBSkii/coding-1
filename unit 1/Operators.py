@@ -20,7 +20,7 @@ print (3 * 4) #multiplecation
 print(10 >1)
 print(10 < 2)
  # 2 equal signs compare if something is the same
-print(jon == jon) # same as (faslse) 
+print(jon == jon) # same as (false) 
 print("2" == 2) 
 print(2.0 == 2)
 
