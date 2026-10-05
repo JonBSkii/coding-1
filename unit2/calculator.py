@@ -13,3 +13,36 @@ def calculate_add():
     calculate_add()
 
     #make a function for subtraction, multiplication, and division
+
+    # Subtraction
+def calculate_subtract():
+    print("Program has started: type in 2 numbers to subtract:")
+    num1 = int(input())
+    num2 = int(input())
+    print(num1 - num2)
+    print("Program has ended.")
+
+
+# Multiplication
+def calculate_multiply():
+    print("Program has started: type in 2 numbers to multiply:")
+    num1 = int(input())
+    num2 = int(input())
+    print(num1 * num2)
+    print("Program has ended.")
+
+
+# Division
+def calculate_divide():
+    print("Program has started: type in 2 numbers to divide:")
+    num1 = int(input())
+    num2 = int(input())
+    print(num1 / num2)
+    print("Program has ended.")
+
+
+# Function calls
+calculate_add()
+calculate_subtract()
+calculate_multiply()
+calculate_divide()
