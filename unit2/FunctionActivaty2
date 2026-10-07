@@ -1,0 +1,30 @@
+# Problem #1
+# create a function thaat will take in 2 imputs and compare them
+# your imputs be numbers
+# the function should compare if the first imput is less than the second imput
+# if it is less than the second imput it should print true. if it's not it should print false
+
+def compare_numbers(first, second):
+    if first < second:
+        print(True)
+    else:
+        print(False)
+
+compare_numbers(3, 5) 
+
+# problem #2
+# create a function that will compare if a student has honnor roll
+# the student should be able to imput 2 pieces of data 
+# the first should be their grade and the second should be the number of days they have been absent.
+if the students grade is above a 90 and the number of absenses is less than 5, the program should print true, otherwise it should print false.
+
+def honor_roll():
+    grade = float(input("Enter your grade: "))
+    absences = int(input("Enter the number of days absent: "))
+
+    if grade > 90 and absences < 5:
+        print(True)
+    else:
+        print(False)
+
+honor_roll()  
