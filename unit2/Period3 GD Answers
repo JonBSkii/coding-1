@@ -1,0 +1,10 @@
+1. If a programmer, a concept artist, and a publisher read your GDD, what specific information is each person looking for, and why? Game mechanics and rules to know what to code. Concept artist: Characters, settings, and visual style to create matching artwork.
+Publisher: Target audience, budget, schedule, and market potential to decide whether to invest.
+
+2. What are 2 differences between a game design document and code documentation? Purpose: A GDD explains the game's design; code documentation explains how the software works. Audience: A GDD is for the whole development team; code documentation mainly helps programmers maintain and understand code.
+
+3. Why is a GDD considered a 'living document'? What typically happens to a project if the GDD is treated as an unchangeable script once coding begins? A GDD is a living document because ideas and features change during development. If it cannot change, the team may waste time, create unnecessary work, and miss opportunities to improve the game.
+
+4. How does a well-structured GDD help a development team avoid feature creep? It defines the game's main goals and priorities, helping the team reject unnecessary features and stay within budget and schedule.
+
+
