@@ -81,3 +81,21 @@ Enter your choice (1-4): 1
 Enter the first number: 10
 Enter the second number: 5
 The answer is: 15.0
+
+  # using the calulator functions from the calulator.py file
+        # create a main calulator functions that uses if/else logic to
+        # allows the user to select different arithmetic  
+
+        def maincalulator():
+         # take in a user selection as a number
+         selection= input()
+
+         if selection == 1:
+         calculate_add()
+        elif selection == 2
+         if selection == 3
+         calculate_subtract()
+         elif selection == 4
+          calculate_multiply 
+          calculate_divsion
+          print("Sorry something went wrong.")
