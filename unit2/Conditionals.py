@@ -99,3 +99,19 @@ The answer is: 15.0
           calculate_multiply 
           calculate_divsion
           print("Sorry something went wrong.")
+
+          Do now 10/15/2026
+          def movieticketprice
+          print("Welcome to the movie theater. How old are you?") 
+          age = int(input())
+          if age < 7:
+          print("Your ticket is $8.00")
+          elif age > 8 and age < 20:
+          print("Your ticket is $12.00")
+          elif age > 21 and age < 60:
+          print("Your ticket is $20.00") 
+           elif age > 61:
+         print("Your ticket is free")
+        
+                    
+
