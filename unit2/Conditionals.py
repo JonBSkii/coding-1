@@ -112,6 +112,11 @@ The answer is: 15.0
           print("Your ticket is $20.00") 
            elif age > 61:
          print("Your ticket is free")
-        
-                    
 
+            def check_trip(permission_slip, gpa):
+    if permission_slip == True and gpa > 90:
+        print("You can go on the trip!")
+    elif permission_slip == False and gpa > 90:
+        print("You will have a free day!")
+    else:
+        print("You do not qualify for the trip or a free day.")
