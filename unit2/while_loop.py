@@ -45,20 +45,3 @@ print("Congrats! you guessed the right number!")
 # will not give them points. Every shot must be recorded. If your user enters the letter "q", it 
 # will show how many points they made as well as the number of attempts they've made
 
-def password_reset():
-    correct_password = "Python123"
-    attempts = 0
-
-    while attempts < 4:
-        password = input("Enter your password: ")
-
-        if password == correct_password:
-            print("Correct password! You can access your account.")
-            return
-        else:
-            attempts += 1
-            print("Incorrect password. Try again.")
-
-    print("Your account has been locked.")
-
-password_reset()

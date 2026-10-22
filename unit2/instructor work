@@ -1,0 +1,23 @@
+ef vending_machine():
+    menu = {
+        "B3": "Nacho Chips",
+        "G4": "BBQ Chips",
+        "G7": "Plain Chips",
+        "D3": "Water",
+        "G5": "Cola Soda"
+    }
+
+    while True:
+        choice = input(
+            "Enter a vending machine number (or 'q' to quit): "
+        ).upper()
+
+        if choice == "Q":
+            print("Thank you for using the vending machine!")
+            break
+
+        elif choice in menu:
+            print("You selected:", menu[choice])
+
+        else:
+            print("Invalid selection. Please try again.")
