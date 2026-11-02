@@ -1,4 +1,4 @@
- what is loops -----> Code that repeats
+ # what is loops -----> Code that repeats
 
 #while loops =  a block code that repeats itself until the triggering condition is no longer true. Can be infinite.
 
